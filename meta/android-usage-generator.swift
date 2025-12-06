@@ -10,8 +10,8 @@ Steps:
 */
 
 let data = """
-"Date","14.0","13.0","12.0","11.0","15.0","10.0","9.0 Pie","8.0 Oreo","6.0 Marshmallow","5.0 Lollipop","8.1 Oreo","7.0 Nougat","5.1 Lollipop","7.1 Nougat","16.0","4.4 KitKat","4.3 Jelly Bean","24.1","24.7","25.2","4.1 Jelly Bean","Other"
-2025-08,16.75,15.21,11.06,9.38,28.54,4.94,2.76,2.68,1.99,3.08,0.78,1.12,0.3,0.17,1.03,0.07,0.02,0,0,0,0.01,0.09
+"Date","14.0","13.0","15.0","12.0","11.0","10.0","9.0 Pie","8.0 Oreo","5.0 Lollipop","6.0 Marshmallow","8.1 Oreo","7.0 Nougat","16.0","5.1 Lollipop","7.1 Nougat","4.4 KitKat","4.3 Jelly Bean","24.1","25.2","25.8","Other"
+2025-10,15.08,14.96,29.78,10.93,9.04,4.78,2.67,1.43,2.03,1.76,1.6,0.61,4.57,0.27,0.28,0.05,0.02,0,0,0.07,0.06
 """
 
 let rows = data.split(separator: "\n")
@@ -43,7 +43,7 @@ var android4point0 = 0.0
 for i in 0..<androidVersions.count {
 	let (version, percentage) = (String(androidVersions[i]), Double(percentages[i])!)
 	
-	if version.contains("21.") || version.contains("22.") {
+	if version.contains("21.") || version.contains("22.") || version.contains("23.") || version.contains("24.") || version.contains("25.") {
 		continue // Ignore weird versions
 	} else if version.contains("16.") {
 		android16 += percentage
@@ -109,6 +109,7 @@ android4point1 += android4point2
 android4point0 += android4point1
 
 // Round to 1 decimal place
+android16 = round(android16 * 10) / 10.0
 android15 = round(android15 * 10) / 10.0
 android14 = round(android14 * 10) / 10.0
 android13 = round(android13 * 10) / 10.0
