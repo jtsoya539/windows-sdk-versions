@@ -1,6 +1,6 @@
 # API Levels
 
-Hello! This is the source code for [Android API Levels](https://apilevels.com), a microsite that displays Android versions and their corresponding identifiers for Android developers. It is built with [Jekyll](https://jekyllrb.com/) and deployed on [GitHub Pages](https://pages.github.com/). Changes merged into the `main` branch are automatically deployed.
+Hello! This is the source code for [Windows SDK Versions](https://jtsoya539.github.io/windows-sdk-versions), a microsite that displays Windows 10 and Windows 11 versions and their corresponding identifiers for Windows developers. It is built with [Jekyll](https://jekyllrb.com/) and deployed on [GitHub Pages](https://pages.github.com/). Changes merged into the `main` branch are automatically deployed.
 
 ## Getting started
 

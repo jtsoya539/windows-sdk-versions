@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Android API Levels
+title: Windows SDK Versions
 description: A quick reference table of Android versions with SDK & API levels, version codes, codenames, cumulative usage, and more.
 author: Eugene Belinski
 keywords: android,api,sdk,levels,version,codes,codename,usage,market,share,distribution

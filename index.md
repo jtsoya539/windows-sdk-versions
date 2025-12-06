@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-This is an overview of all Android versions and their corresponding identifiers for Android developers. Anyone is welcome to open [an issue or pull request](https://github.com/ebelinski/apilevels). Happy developing!
+This is an overview of all Windows 10 and Windows 11 versions and their corresponding identifiers for Windows developers. Anyone is welcome to open [an issue or pull request](https://github.com/jtsoya539/windows-sdk-versions). Happy developing!
 {: #intro}
 
 <div id="compact-toc">
