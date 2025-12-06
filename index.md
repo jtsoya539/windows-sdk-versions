@@ -348,7 +348,8 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 <div id="main-table" class="table-responsive">
 <table class="full-width">
   <tr>
-    <th style="min-width: 6.5em">Desktop OS Build</th>
+    <th style="min-width: 6.5em">Version</th>
+    <th>Desktop OS Build</th>
     <th>Mobile OS Build</th>
     <th>Release version / name</th>
     <th>Release date (GA)</th>
@@ -356,7 +357,12 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <th>Mobile Emulator version</th>
   </tr>
   <tr>
-    <td>19045.*<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup></td>
+    <td rowspan="14">
+      <b><a href="#">Windows 10</a></b>
+    </td>
+    <td>19045.*
+      <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>
+    </td>
     <td>-</td>
     <td><code>22H2</code> 2022 Update</td>
     <td>Sept/Oct 2022 (GA Oct 18, 2022)</td>
@@ -429,7 +435,9 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td>16299.*</td>
-    <td>15254.*<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></td>
+    <td>15254.*
+      <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
+    </td>
     <td><code>1709</code> Fall Creators Update (Redstone 3)</td>
     <td>Oct 17, 2017</td>
     <td>10.0.16299.91</td>
@@ -453,14 +461,18 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td>10586.*</td>
-    <td>10586.*<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></td>
+    <td>10586.*
+      <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
+    </td>
     <td><code>1511</code> November Update (Threshold 2)</td>
     <td>Nov 2015</td>
     <td>10.0.10586.212</td>
     <td>10.0.10586.11</td>
   </tr>
   <tr>
-    <td>10240.*<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></td>
+    <td>10240.*
+      <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
+    </td>
     <td>10240.*</td>
     <td><code>1507</code> RTM (Threshold 1)</td>
     <td>July 29, 2015</td>
