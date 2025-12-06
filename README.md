@@ -14,7 +14,7 @@ The website should now be visible in a browser at http://127.0.0.1:4000/.
 
 ## Contributing
 
-You may open [issues](https://github.com/ebelinski/apilevels/issues) for suggestions and [pull request](https://github.com/ebelinski/apilevels/pulls) for proposed changes. All contributors must follow the [code of conduct](/CODE_OF_CONDUCT.md). Any contributions you make must follow the [license](#license).
+You may open [issues](https://github.com/jtsoya539/windows-sdk-versions/issues) for suggestions and [pull request](https://github.com/jtsoya539/windows-sdk-versions/pulls) for proposed changes. All contributors must follow the [code of conduct](/CODE_OF_CONDUCT.md). Any contributions you make must follow the [license](#license).
 
 All of the website content is in the [index.md](/index.md), which has a mix of HTML and Markdown code. It's a bit messy, but it works!
 
