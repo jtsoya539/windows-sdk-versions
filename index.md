@@ -221,3 +221,4 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 * [https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/]()
 * [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/]()
 * [https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version]()
+* [https://portablelibraryprofiles.stephencleary.com/]()
