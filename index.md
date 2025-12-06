@@ -443,6 +443,13 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <td>10.0.15254.1</td>
     <td>Oct 17, 2017</td>
   </tr>
+  <tr class="table-notes">
+    <td colspan="6">
+      <ul>
+        <li><b>Key milestone</b> UWP can use <code>.NET Standard 2.0</code> when MinVersion ≥ Build <code>16299</code>.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td>15063.*</td>
     <td>15063.*</td>
