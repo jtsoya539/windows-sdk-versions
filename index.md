@@ -356,7 +356,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <th>Mobile Emulator version</th>
   </tr>
   <tr>
-    <td>19045.*</td>
+    <td>19045.*<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup></td>
     <td>-</td>
     <td><code>22H2</code> 2022 Update</td>
     <td>Sept/Oct 2022 (GA Oct 18, 2022)</td>
@@ -429,7 +429,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td>16299.*</td>
-    <td>15254.*</td>
+    <td>15254.*<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></td>
     <td><code>1709</code> Fall Creators Update (Redstone 3)</td>
     <td>Oct 17, 2017</td>
     <td>10.0.16299.91</td>
@@ -453,14 +453,14 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td>10586.*</td>
-    <td>10586.*</td>
+    <td>10586.*<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></td>
     <td><code>1511</code> November Update (Threshold 2)</td>
     <td>Nov 2015</td>
     <td>10.0.10586.212</td>
     <td>10.0.10586.11</td>
   </tr>
   <tr>
-    <td>10240.*</td>
+    <td>10240.*<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></td>
     <td>10240.*</td>
     <td><code>1507</code> RTM (Threshold 1)</td>
     <td>July 29, 2015</td>
@@ -519,16 +519,16 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Cumulative usage distribution figures were last updated on November 16, 2025 using <b>October 2025</b> data from <a href="https://gs.statcounter.com/android-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a> and <a href="https://github.com/jtsoya539/windows-sdk-versions/blob/main/meta/android-usage-generator.swift">this script</a>. These figures may have changed significantly since the last update. You may update the figures yourself with a <a href="https://github.com/jtsoya539/windows-sdk-versions">pull request</a>. <a href="#fnref:1" class="reversefootnote">↩</a></p>
+      <p>Initial Windows 10 release. <a href="#fnref:1" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:2">
-      <p>The codenames for Android 10 and above in the table are the internal codenames. Beginning with Android 10, Google dropped the usage of codenames publicly. <a href="#fnref:2" class="reversefootnote">↩</a></p>
+      <p>Initial Windows 10 Mobile release. <a href="#fnref:2" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:3">
-      <p>Android 4.4W is the first Android release for Android Wear. <a href="#fnref:3" class="reversefootnote">↩</a></p>
+      <p>Final Windows 10 Mobile feature update. <a href="#fnref:3" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:4">
-      <p>The years represent the year of first stable release of each version. The release dates are from <a href="https://developer.android.com/reference/android/os/Build.VERSION_CODES#constants_1"><code>android.os.Build.VERSION_CODES</code></a> including later versions' years from the <a href="https://blog.google/products/android/">Official Android blog</a> (<a href="https://blog.google/products/android/android-12/">12</a>, <a href="https://blog.google/products/android/12l-larger-screens/">12L</a>, <a href="https://blog.google/products/android/android-13/">13</a>, <a href="https://blog.google/products/android/android-14/">14</a>, <a href="https://blog.google/products/android/android-15/">15</a>) <a href="#fnref:4" class="reversefootnote">↩</a></p>
+      <p>Final Windows 10 feature update. <a href="#fnref:4" class="reversefootnote">↩</a></p>
     </li>
   </ol>
 </div>
