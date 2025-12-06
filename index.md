@@ -29,7 +29,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <td colspan="6">TO-DO</td>
   </tr>
   <tr>
-    <td rowspan="15">
+    <td rowspan="16">
       <b><a href="#">Windows 10</a></b>
     </td>
     <td>19045.*
@@ -158,49 +158,36 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <td>10.0.10240</td>
     <td>July 29, 2015</td>
   </tr>
+  <tr class="table-notes">
+    <td colspan="6">
+      <ul>
+        <li><code>.NET Standard</code> <b>not</b> fully supported (UWP era: early <code>.NET Standard 1.x</code> support limited).</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 </div>
 
 ## Definitions
 
-#### Gradle files
+#### Target settings
 
 <div class="table-responsive">
 <table class="full-width">
   <tr>
-    <th class="nowrap">Kotlin variable</th>
-    <th class="nowrap">Groovy variable</th>
+    <th>Setting</th>
+    <th class="nowrap">Project file setting</th>
     <th>Definition</th>
   </tr>
   <tr>
-    <td class="nowrap"><code>minSdk</code></td>
-    <td class="nowrap"><code>minSdkVersion</code></td>
-    <td>The minimum SDK version your app will support, defined in <code>build.gradle</code>. For example, if your <code>minSdk</code> is 26, this SDK version corresponds to API Level 26 and Android 8, so your app will only run on devices with Android 8 or higher.</td>
+    <td>Target Version</td>
+    <td class="nowrap"><code>TargetPlatformVersion</code></td>
+    <td>The version of Windows 10 or Windows 11 that your app is intended to run on. This sets the <code>TargetPlatformVersion</code> setting in your project file. It also determines the value of the <code>TargetDeviceFamily@MaxVersionTested</code> attribute in your app package manifest.</td>
   </tr>
   <tr>
-    <td class="nowrap"><code>targetSdk</code></td>
-    <td class="nowrap"><code>targetSdkVersion</code></td>
-    <td>The SDK version that your app targets, defined in <code>build.gradle</code>. This should always be the same as <code>compileSdk</code>.</td>
-  </tr>
-  <tr>
-    <td class="nowrap"><code>compileSdk</code></td>
-    <td class="nowrap"><code>compileSdkVersion</code></td>
-    <td>The SDK version that your app compiles against, defined in <code>build.gradle</code>. Android Studio uses this SDK version to build your AABs and APKs. This should always be the same as <code>targetSdk</code>.</td>
-  </tr>
-</table>
-</div>
-
-#### Code files
-
-<div class="table-responsive">
-<table class="full-width">
-  <tr>
-    <th>Variable</th>
-    <th>Definition</th>
-  </tr>
-  <tr>
-    <td class="nowrap"><code>Build.VERSION.SDK_INT</code></td>
-    <td>The SDK version of the Android OS currently running on the user's device. For example, on a device running Android 11, this value will be <code>30</code> (aka <code>Build.VERSION_CODES.R</code>), even if the target and compile SDK of the app is different.</td>
+    <td>Minimum Version</td>
+    <td class="nowrap"><code>TargetPlatformMinVersion</code></td>
+    <td>The earliest version of Windows 10 or Windows 11 needed to support the basic functions of your app. This sets the <code>TargetPlatformMinVersion</code> setting in your project file. It also determines the value of the <code>TargetDeviceFamily@MinVersion</code> attribute in your app package manifest.</td>
   </tr>
 </table>
 </div>
@@ -233,4 +220,4 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 * [https://learn.microsoft.com/en-us/windows/release-health/release-information#windows-10-release-history]()
 * [https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/]()
 * [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/]()
-
+* [https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version]()
