@@ -11,7 +11,7 @@ description: A quick reference table of Android versions with SDK & API levels, 
 author: Eugene Belinski
 keywords: android,api,sdk,levels,version,codes,codename,usage,market,share,distribution
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/windows-sdk-versions" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
