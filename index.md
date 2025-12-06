@@ -352,9 +352,9 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <th>Desktop OS Build</th>
     <th>Mobile OS Build</th>
     <th>Release version / name</th>
-    <th>Release date (GA)</th>
     <th>SDK version</th>
     <th>Mobile Emulator version</th>
+    <th>Release date (GA)</th>
   </tr>
   <tr>
     <td rowspan="14">
@@ -365,73 +365,73 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     </td>
     <td>-</td>
     <td><code>22H2</code> 2022 Update</td>
+    <td>-</td>
+    <td>-</td>
     <td>Sept/Oct 2022 (GA Oct 18, 2022)</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>19044.*</td>
     <td>-</td>
     <td><code>21H2</code> November 2021 Update</td>
+    <td>-</td>
+    <td>-</td>
     <td>Nov 16, 2021</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>19043.*</td>
     <td>-</td>
     <td><code>21H1</code> May 2021 Update</td>
+    <td>-</td>
+    <td>-</td>
     <td>May 18, 2021</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>19042.*</td>
     <td>-</td>
     <td><code>20H2</code> October 2020 Update</td>
+    <td>-</td>
+    <td>-</td>
     <td>Oct 20, 2020</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>19041.*</td>
     <td>-</td>
     <td><code>2004</code> May 2020 Update</td>
-    <td>May 27, 2020</td>
     <td>10.0.19041.0</td>
     <td>-</td>
+    <td>May 27, 2020</td>
   </tr>
   <tr>
     <td>18363.*</td>
     <td>-</td>
     <td><code>1909</code> November 2019 Update</td>
+    <td>-</td>
+    <td>-</td>
     <td>Nov 2019</td>
-    <td>-</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>18362.*</td>
     <td>-</td>
     <td><code>1903</code> May 2019 Update</td>
-    <td>May 2019</td>
     <td>10.0.18362.1</td>
     <td>-</td>
+    <td>May 2019</td>
   </tr>
   <tr>
     <td>17763.*</td>
     <td>-</td>
     <td><code>1809</code> October 2018 Update (Redstone 5)</td>
-    <td>Oct 2, 2018</td>
     <td>10.0.17763.0</td>
     <td>-</td>
+    <td>Oct 2, 2018</td>
   </tr>
   <tr>
     <td>17134.*</td>
     <td>-</td>
     <td><code>1803</code> April 2018 Update (Redstone 4)</td>
-    <td>Apr 30, 2018</td>
     <td>10.0.17134.12</td>
     <td>-</td>
+    <td>Apr 30, 2018</td>
   </tr>
   <tr>
     <td>16299.*</td>
@@ -439,25 +439,25 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
       <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
     </td>
     <td><code>1709</code> Fall Creators Update (Redstone 3)</td>
-    <td>Oct 17, 2017</td>
     <td>10.0.16299.91</td>
     <td>10.0.15254.1</td>
+    <td>Oct 17, 2017</td>
   </tr>
   <tr>
     <td>15063.*</td>
     <td>15063.*</td>
     <td><code>1703</code> Creators Update (Redstone 2)</td>
-    <td>Apr 2017</td>
     <td>10.0.15063.468</td>
     <td>10.0.15254.1</td>
+    <td>Apr 2017</td>
   </tr>
   <tr>
     <td>14393.*</td>
     <td>14393.*</td>
     <td><code>1607</code> Anniversary Update (Redstone 1)</td>
-    <td>Aug 2, 2016</td>
     <td>10.0.14393.795</td>
     <td>10.0.14393.0</td>
+    <td>Aug 2, 2016</td>
   </tr>
   <tr>
     <td>10586.*</td>
@@ -465,9 +465,9 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
       <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
     </td>
     <td><code>1511</code> November Update (Threshold 2)</td>
-    <td>Nov 2015</td>
     <td>10.0.10586.212</td>
     <td>10.0.10586.11</td>
+    <td>Nov 2015</td>
   </tr>
   <tr>
     <td>10240.*
@@ -475,9 +475,9 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     </td>
     <td>10240.*</td>
     <td><code>1507</code> RTM (Threshold 1)</td>
+    <td>10.0.10240</td>
+    <td>10.0.10240</td>
     <td>July 29, 2015</td>
-    <td>10.0.10240</td>
-    <td>10.0.10240</td>
   </tr>
 </table>
 </div>
