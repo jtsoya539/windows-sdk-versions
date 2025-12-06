@@ -26,19 +26,14 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <td rowspan="1">
       <b><a href="#">Windows 11</a></b>
     </td>
-    <td>TO-DO</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td colspan="6">TO-DO</td>
   </tr>
   <tr>
     <td rowspan="15">
       <b><a href="#">Windows 10</a></b>
     </td>
     <td>19045.*
-      <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>
+      <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
     </td>
     <td>-</td>
     <td><code>22H2</code> 2022 Update</td>
@@ -113,7 +108,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   <tr>
     <td>16299.*</td>
     <td>15254.*
-      <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
+      <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
     </td>
     <td><code>1709</code> Fall Creators Update (Redstone 3)</td>
     <td>10.0.16299.91</td>
@@ -146,7 +141,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   <tr>
     <td>10586.*</td>
     <td>10586.*
-      <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
+      <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
     </td>
     <td><code>1511</code> November Update (Threshold 2)</td>
     <td>10.0.10586.212</td>
@@ -155,7 +150,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td>10240.*
-      <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
+      <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>
     </td>
     <td>10240.*</td>
     <td><code>1507</code> RTM (Threshold 1)</td>
@@ -215,16 +210,16 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Initial Windows 10 release. <a href="#fnref:1" class="reversefootnote">↩</a></p>
+      <p>Final Windows 10 feature update. <a href="#fnref:1" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:2">
-      <p>Initial Windows 10 Mobile release. <a href="#fnref:2" class="reversefootnote">↩</a></p>
+      <p>Final Windows 10 Mobile feature update. <a href="#fnref:2" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:3">
-      <p>Final Windows 10 Mobile feature update. <a href="#fnref:3" class="reversefootnote">↩</a></p>
+      <p>Initial Windows 10 Mobile release. <a href="#fnref:3" class="reversefootnote">↩</a></p>
     </li>
     <li id="fn:4">
-      <p>Final Windows 10 feature update. <a href="#fnref:4" class="reversefootnote">↩</a></p>
+      <p>Initial Windows 10 release. <a href="#fnref:4" class="reversefootnote">↩</a></p>
     </li>
   </ol>
 </div>
