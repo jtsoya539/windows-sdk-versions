@@ -23,10 +23,45 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
     <th>Release date (GA)</th>
   </tr>
   <tr>
-    <td rowspan="1">
+    <td rowspan="6">
       <b><a href="#">Windows 11</a></b>
     </td>
-    <td colspan="6">TO-DO</td>
+    <td>28000.*</td>
+    <td rowspan="6">n/a</td>
+    <td><code>26H1</code></td>
+    <td>28000.*</td>
+    <td rowspan="6">n/a</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>26200.*</td>
+    <td><code>25H2</code></td>
+    <td>-</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>26100.*</td>
+    <td><code>24H2</code></td>
+    <td>26100.*</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>22631.*</td>
+    <td><code>23H2</code></td>
+    <td>-</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>22621.*</td>
+    <td><code>22H2</code></td>
+    <td>22621.*</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>22000.*</td>
+    <td><code>21H2</code> RTM</td>
+    <td>22000.*</td>
+    <td>2022</td>
   </tr>
   <tr>
     <td rowspan="16">
