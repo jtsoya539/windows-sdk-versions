@@ -24,7 +24,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td rowspan="6">
-      <b><a href="#">Windows 11</a></b>
+      <b><a href="https://aka.ms/Windows11/UpdateHistory">Windows 11</a></b>
     </td>
     <td>28000.*</td>
     <td rowspan="6">n/a</td>
@@ -65,7 +65,7 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
   </tr>
   <tr>
     <td rowspan="16">
-      <b><a href="#">Windows 10</a></b>
+      <b><a href="https://aka.ms/Windows10/UpdateHistory">Windows 10</a></b>
     </td>
     <td>19045.*
       <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
@@ -248,12 +248,12 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 
 ## See also
 
-* [https://learn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041]()
 * [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/]()
 * [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/index-legacy]()
-* [https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history]()
 * [https://learn.microsoft.com/en-us/windows/release-health/release-information#windows-10-release-history]()
+* [https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history]()
 * [https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/]()
-* [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/]()
+* [https://learn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041]()
 * [https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version]()
+* [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/]()
 * [https://portablelibraryprofiles.stephencleary.com/]()
