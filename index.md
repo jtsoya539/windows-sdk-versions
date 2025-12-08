@@ -248,12 +248,12 @@ This is an overview of all Windows 10 and Windows 11 versions and their correspo
 
 ## See also
 
-* [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/]()
-* [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/index-legacy]()
-* [https://learn.microsoft.com/en-us/windows/release-health/release-information#windows-10-release-history]()
-* [https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history]()
-* [https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/]()
-* [https://learn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041]()
-* [https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version]()
-* [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/]()
-* [https://portablelibraryprofiles.stephencleary.com/]()
+* [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/)
+* [https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/index-legacy](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/index-legacy)
+* [https://learn.microsoft.com/en-us/windows/release-health/release-information#windows-10-release-history](https://learn.microsoft.com/en-us/windows/release-health/release-information#windows-10-release-history)
+* [https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history)
+* [https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/](https://devblogs.microsoft.com/dotnet/announcing-uwp-support-for-net-standard-2-0/)
+* [https://learn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041](https://learn.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041)
+* [https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version](https://learn.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version)
+* [https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/](https://gal.vin/posts/old/a-quick-word-on-windows-10-names-builds-and-versions/)
+* [https://portablelibraryprofiles.stephencleary.com/](https://portablelibraryprofiles.stephencleary.com/)
